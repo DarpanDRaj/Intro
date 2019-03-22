@@ -5,3 +5,4 @@ This is a introduction file to test GIT
 step 1 Success
 step 3 removing
 step 4 changing of branch
+step 5 merging
