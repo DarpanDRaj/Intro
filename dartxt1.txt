@@ -4,3 +4,4 @@ This is a introduction file to test GIT
 
 step 1 Success
 step 2 adding
+step 3 removing
